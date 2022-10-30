@@ -32,6 +32,7 @@
 ### get the load balancer IP and port
 
 
+![Screenshot from 2022-10-30 21-44-29](https://user-images.githubusercontent.com/111639858/198898917-d4da1424-cafe-4059-9fb3-714e2ed6a681.png)
 
 
 
